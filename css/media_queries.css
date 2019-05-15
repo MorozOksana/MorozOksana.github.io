@@ -1,0 +1,213 @@
+@media only screen and (max-width : 1200px) {
+  .ay {
+    background-color: #916f5d;
+    display: inline-block;
+    border-top: 20%;
+    border-bottom: 20%;
+    width: 100%;
+    border: 10%;
+  }
+  .ay > img{
+    display: block;
+    float: none;
+    text-align: center;
+    margin-left: 31%;
+    width: 35%;
+  }
+  .aytext {
+    margin: 0px 0px 50px 0px;
+    text-align: center;
+    font-size: 250%;
+    padding-top: 0px;
+    font-family: 'Open Sans Light Italic';
+  }
+  .kontacts {
+    font-size: 200%;
+  }
+  
+@media only screen and (max-width : 980px) {
+
+  /*label {
+    display: block;
+    cursor: pointer;
+    border-bottom: 5px solid black;
+  }
+  .logo{
+    display: block;
+  }
+  .navbar >a{
+    display: block;
+  }
+  .menu {
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+  }
+  .menu a {
+    display: block;
+    border-bottom: 5px solid black;
+    margin: 0;
+  }
+  
+     Поняття не маю чому воно не працює
+
+    #toggle:checked .menu {
+      display: none;
+    } 
+
+    #toggle:checked + .menu {
+      display: block;
+    }
+  */
+  .navbar {
+
+  text-align: center;
+  }
+  .logo{
+    display: block;
+    float: none;
+    text-align: center;
+  }
+  .menu {
+    padding: 0px;
+    font-size: 130%;
+    text-align: center;
+  }
+
+  .skill .pidp {
+    font-size: 30px;
+    font-family: 'Playfair Display Italic';
+  }
+  .skill > img {
+  
+    opacity: 0.8; 
+      cursor: pointer; 
+      display: inline-block;
+      width: 49%;
+  }
+  .skill {
+    width: 45%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .navic {
+      text-align: center;
+      font-size: 50px;
+      margin-left: 45%;
+      margin-right: 45%;
+      margin-top: 5%;
+      font-family: 'Playfair Display Italic';
+  }
+  .aytext {
+    margin: 0px 0px 50px 0px;
+    text-align: center;
+    font-size: 200%;
+    padding-top: 0px;
+    font-family: 'Open Sans Light Italic';
+  }
+
+  .ay > img{
+    display: block;
+    float: none;
+    text-align: center;
+    margin-left: 31%;
+    width: 35%;
+  }
+
+  .portfolio li {
+    width: 95%;
+  }
+
+  .img-text .text {
+    border: 5px solid silver;
+    padding: 5px 0;
+    font-size: 200%;
+    margin: 27% 5% 20% 5%;
+  }
+  .portfolio > ul {
+    padding-left: 5%;
+    width: 100%;
+  }
+  .contact {
+    min-width: 0;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 27%;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+  }
+  .kontacts {
+    font-size: 100%;
+  }
+
+@media only screen and (max-width : 480px) {
+.navbar {
+  height: 80px;
+}
+.logo img{
+  height: 40px;
+  width: auto;
+}
+.logo {
+  padding: 0;
+}
+  .menu {
+  font-size: 15px;
+}
+.ay > img{
+  display: block;
+  float: none;
+  text-align: center;
+  margin-left: 31%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  width: 35%;
+}
+.aytext {
+  margin: 0px 0px 50px 0px;
+  text-align: center;
+  font-size: 100%;
+  padding-top: 0px;
+  font-family: 'Open Sans Light Italic';
+}
+.navic {
+  margin-top: 0;
+  font-size: 300%;
+}
+.skills {
+  font-size: 50%;
+}
+.img-text .text {
+  border: 5px solid silver;
+  padding: 5px 0;
+  font-size: 100%;
+  margin: 27% 5% 20% 5%;
+}
+.portfolio > ul {
+  padding-left: 5%;
+  width: 100%;
+}
+.skill .pidp {
+  font-size: 15px;
+  font-family: 'Playfair Display Italic';
+}
+.kontacts {
+  font-size: 50%;
+}
+.contact {
+  min-width: 0;
+  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 27%;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+.milo{
+  font-size: 10px; 
+}
+
+
